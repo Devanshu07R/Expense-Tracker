@@ -11,7 +11,7 @@
 🛠️ Tech Stack
 🔹 HTML – Structuring the app layout.
 🔹 Tailwind CSS – Styling for a modern and responsive interface.
-🔹 JavaScript – Handles all the dynamic interactions and data management.
+🔹 JavaScript – Handles all the dynamic interactions and data management.bfghhr
 
 🚀 Live Demo & Contributions
 🔗 Live Demo: https://devanshu07r.github.io/Expense-Tracker/
