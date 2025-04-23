@@ -15,6 +15,5 @@
 
 🚀 Live Demo & Contributions
 🔗 Live Demo: https://devanshu07r.github.io/Expense-Tracker/
-🌟 Star this repo if you find it helpful! Want to enhance it? Feel free to contribute and make it even better! 🚀
-devanshu Dasgupta 
+🌟 Star this repo if you find it helpful! Want to enhance it? Feel free to contribute and make it even better! 🚀 bil hai 
 
